@@ -1,4 +1,4 @@
-# Algorithms-Data-Structures-Assignment-1
+# Algorithms & Data Structures Assignment 1
 Assignment revolved around creating an algorith that:
 - creates a lexicon of words from various text files (case-insensitive), where words are only stored once and punctuation and numerical charactesr are removed
 - word frequency is stored for each word in the lexicon
